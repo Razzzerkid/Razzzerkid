@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/Razzzerkid/Razzzerkid/blob/main/assets/header_size_git.png)
 
 My CV
 
