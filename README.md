@@ -8,6 +8,7 @@ My CV
 ![Postman](https://img.shields.io/badge/-Postman-555555??style=for-the-badge&logo=Postman)
 ![GitHub](https://img.shields.io/badge/-GitHub-555555??style=for-the-badge&logo=Github)
 ![Charles](https://img.shields.io/badge/-Charles-555555??style=for-the-badge&logo=Charles)
+![Devtools](https://img.shields.io/badge/-Devtools-555555??style=for-the-badge&logo=youtube)
 
 Testing Documentation
 
