@@ -18,7 +18,8 @@
 ## Testing Documentation
 + [Checklists](https://miro.com/app/board/uXjVPP5G3oQ=/)
 
-## Social Media
+## Social
++ [Telegram](https://t.me/Razzzerkid)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razzzerkid&show_icons=true&theme=radical)
 
