@@ -1,4 +1,4 @@
-![Header](https://github.com/Razzzerkid/Razzzerkid/blob/main/assets/header_size_git.png)
+![Header](https://github.com/Razzzerkid/Razzzerkid/blob/main/header_size_git.png)
 
 ## I'm a beginner QA Engineer
 
