@@ -1,6 +1,6 @@
 ![Header](https://github.com/Razzzerkid/Razzzerkid/blob/main/assets/header_size_git.png)
 
-## I'm a beginner QA Engineer
+## I'm a QA Engineer
 
 ## My CV
 
