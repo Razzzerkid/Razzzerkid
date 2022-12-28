@@ -4,6 +4,9 @@
 
 ## My CV
 
+## Social
++ [Telegram](https://t.me/Razzzerkid)
+
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-555555?style=for-the-badge&logo=Postman)
 ![Charles](https://img.shields.io/badge/-Charles-555555?style=for-the-badge&logo=C)
@@ -12,14 +15,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-555555?style=for-the-badge&logo=Github)
 ![Devtools](https://img.shields.io/badge/-Devtools-555555?style=for-the-badge&logo=devpost&logoColor=159FDE)
 ![Qase](https://img.shields.io/badge/-Qase-555555?style=for-the-badge&logo=Quora&logoColor=159FDE)
-
-
-
-## Testing Documentation
-+ [Checklists](https://miro.com/app/board/uXjVPP5G3oQ=/)
-
-## Social
-+ [Telegram](https://t.me/Razzzerkid)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razzzerkid&show_icons=true&theme=radical)
 
